@@ -1,0 +1,22 @@
+
+
+  form {
+    width: 50%;
+    padding: 57px;
+    margin-left: 26%;
+    height: 200px;
+background: #8e4df0;
+box-shadow: 10px 13px;
+  }
+
+  #exampleInputEmail1 {
+    text-align: center;
+  }
+  .btn.btn-primary.btn-center {
+    margin-left: 17%;
+    margin-top: 22px;
+    width: 63%;
+  }
+  body {
+    background: #9bd1d3;
+  }
